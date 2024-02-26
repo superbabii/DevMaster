@@ -1,4 +1,4 @@
-  =>  Template Name    : ProMan - Personal Portfolio HTML Template
+  =>  Template Name    : Nazar - Personal Portfolio HTML Template
 
   =>  Template Link    : https://htmlcodex.com/personal-portfolio-html-template
 
